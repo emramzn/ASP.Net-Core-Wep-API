@@ -1,0 +1,14 @@
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.Business.deps.json
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.Business.dll
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.Business.pdb
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.DataAccess.dll
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.Entities.dll
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.DataAccess.pdb
+C:\Users\90538\source\repos\ProductProcess\Product.Business\bin\Debug\netcoreapp3.1\Product.Entities.pdb
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.csprojAssemblyReference.cache
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.AssemblyInfoInputs.cache
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.AssemblyInfo.cs
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.csproj.CopyComplete
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.dll
+C:\Users\90538\source\repos\ProductProcess\Product.Business\obj\Debug\netcoreapp3.1\Product.Business.pdb
